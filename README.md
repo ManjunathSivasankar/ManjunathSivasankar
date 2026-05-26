@@ -2,7 +2,7 @@
 
 # MANJUNATH
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=4000&color=FFFFFF&center=true&vCenter=true&width=500&lines=immersive+systems;realtime+experiences;experimental+interfaces" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=4000&color=FFFFFF&center=true&vCenter=true&width=500&lines=realtime+experiences;immersive+systems;experimental+interfaces" />
 
 <br/>
 
@@ -12,22 +12,26 @@ full stack developer • mern stack developer • system builder
 
 </div>
 
----
+<br/>
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="50%">
+<td align="center" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManjunathSivasankar&theme=github_dark"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManjunathSivasankar&theme=github_dark"/>
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManjunathSivasankar&theme=github_dark"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManjunathSivasankar&theme=github_dark"/>
 
 </td>
 
 </tr>
 </table>
+
+</div>
