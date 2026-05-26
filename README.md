@@ -1,46 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A1A1A&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111111&height=3&section=header"/>
 
 # MANJUNATH
 
 ```txt
-Building systems that feel cinematic.
+designing immersive systems & futuristic digital experiences
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=14&pause=3000&color=AAAAAA&center=true&vCenter=true&width=700&lines=Operating-system-inspired+interfaces.;Realtime+product+systems.;Experimental+commerce+architectures.;Minimal+interaction-driven+experiences." />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=14&pause=4000&color=AAAAAA&center=true&vCenter=true&width=700&lines=building+products...;crafting+interfaces...;developing+systems...;shipping+experiences..." />
 
 </div>
 
 ---
 
-# /console
+## /runtime
 
 ```bash
-> booting developer profile...
-
-[STATUS]
-SYSTEM ONLINE
-
-[IDENTITY]
-creative engineer
-system architect
-product-focused builder
-
-[CURRENT STATE]
-designing immersive digital systems
-building realtime commerce infrastructure
-exploring futuristic web interactions
-
-[MODE]
-ACTIVE DEVELOPMENT
+SYSTEM STATUS      : ONLINE
+CURRENT MODE       : BUILDING
+WORKFLOW            : IDEA → SYSTEM → EXPERIENCE
+FOCUS               : INTERACTIVE DIGITAL PRODUCTS
 ```
 
 ---
 
-# /currently_running
+## /identity
+
+```yaml
+name: Manjunath Sivasankar
+role: Creative Developer
+location: India
+
+specialization:
+  - Product Systems
+  - Realtime Architectures
+  - UI Engineering
+  - Experimental Interfaces
+  - Cinematic Experiences
+
+currently_building:
+  - ArbanDOS
+  - TillCloud
+  - Anime Commerce Systems
+
+philosophy:
+  "products should feel alive"
+```
+
+---
+
+## /systems
 
 <table>
 <tr>
@@ -50,12 +60,13 @@ ACTIVE DEVELOPMENT
 
 ```yaml
 type: experimental commerce os
-status: active
-focus:
-  - cinematic ui
-  - desktop interactions
-  - custom animation systems
-  - immersive navigation
+status: active development
+
+includes:
+  - cinematic transitions
+  - desktop inspired ui
+  - immersive interactions
+  - futuristic storefront system
 ```
 
 </td>
@@ -67,11 +78,12 @@ focus:
 ```yaml
 type: cloud pos ecosystem
 status: scaling
-focus:
-  - realtime synchronization
-  - live orders
+
+includes:
+  - realtime orders
+  - live synchronization
   - inventory systems
-  - workflow architecture
+  - workflow infrastructure
 ```
 
 </td>
@@ -80,183 +92,115 @@ focus:
 
 ---
 
-# /system_architecture
+## /tech_stack
 
 ```txt
-┌──────────────────────────────────────────────┐
-│ FRONTEND                                    │
-├──────────────────────────────────────────────┤
-│ Next.js                                     │
-│ React                                       │
-│ Tailwind                                    │
-│ Framer Motion                               │
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│ BACKEND                                     │
-├──────────────────────────────────────────────┤
-│ Node.js                                     │
-│ APIs                                        │
-│ Realtime Systems                            │
-│ Authentication                              │
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│ DATABASE                                    │
-├──────────────────────────────────────────────┤
-│ PostgreSQL                                  │
-│ Firebase                                    │
-│ Supabase                                    │
-└──────────────────────────────────────────────┘
+frontend     → react / next.js / tailwind
+backend      → node.js / apis / realtime systems
+database     → postgresql / firebase / supabase
+design       → figma / motion systems / ui architecture
+deployment   → vercel / cloud infrastructure
+workflow     → github / ai-assisted development
 ```
 
 ---
 
-# /live_activity
+## /activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManjunathSivasankar&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&rank_icon=github"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathSivasankar&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999"/>
 
 </div>
 
 ---
 
-# /contribution_pattern
+## /contribution_map
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=aaaaaa&line=ffffff&point=ffffff&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManjunathSivasankar&bg_color=00000000&color=888888&line=ffffff&point=ffffff&hide_border=true"/>
 
 </div>
 
 ---
 
-# /selected_systems
+## /selected_projects
 
 ### [01] ARBANDOS
 
 ```txt
-A futuristic operating-system-inspired commerce experience.
+operating-system-inspired commerce experience
 ```
 
-Core Concepts:
-- cinematic transitions
-- layered interactions
-- immersive storefronts
-- desktop-inspired navigation
-- experimental UI systems
+focus:
+- cinematic product interactions
+- experimental ui architecture
+- immersive transitions
+- futuristic navigation systems
 
 ---
 
 ### [02] TILLCLOUD POS
 
 ```txt
-Realtime restaurant infrastructure platform.
+cloud-native realtime restaurant ecosystem
 ```
 
-Core Concepts:
-- live table synchronization
-- realtime order architecture
+focus:
+- table synchronization
+- live order systems
 - kitchen workflows
-- inventory pipelines
-- cloud-native management
+- inventory management
 
 ---
 
 ### [03] ANIME COMMERCE
 
 ```txt
-Modern category-driven merchandise ecosystem.
+minimal category-driven merchandise platform
 ```
 
-Core Concepts:
-- minimal storefront experience
-- inventory management
-- admin workflow systems
-- collection architecture
-- scalable ecommerce structure
+focus:
+- inventory architecture
+- admin management
+- storefront systems
+- scalable ecommerce workflows
 
 ---
 
-# /repositories
+## /live_repositories
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/ArbanDOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ArbanDOS&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/TillCloud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=TillCloud&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
+<a href="https://github.com/ManjunathSivasankar">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManjunathSivasankar&theme=github_dark"/>
 </a>
 
 </div>
 
 ---
 
-# /runtime_metrics
+## /current_state
 
 ```bash
-daily_state:
-  designing
-  building
-  refactoring
-  experimenting
-  shipping
-
-workflow:
-  idea → prototype → system → refinement
-
-principle:
-  "Products should feel alive."
+designing interfaces...
+building systems...
+refactoring workflows...
+exploring interactions...
+shipping products...
 ```
 
 ---
 
-# /terminal
-
-```bash
-$ whoami
-
-Manjunath
-Creative Developer / System Builder
-
-$ current-focus
-
-building futuristic digital experiences
-
-$ philosophy
-
-minimal interfaces
-cinematic interactions
-system-driven products
-
-$ status
-
-ONLINE
-```
-
----
-
-# /activity_stream
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# /network
+## /network
 
 ```yaml
-instagram: "@yourhandle"
-portfolio: "coming soon"
-status: "open to building"
+github: ManjunathSivasankar
+status: open to collaborations
+portfolio: coming soon
 ```
 
 ---
@@ -264,9 +208,9 @@ status: "open to building"
 <div align="center">
 
 ```txt
-No templates.
-No badge spam.
-No developer clichés.
+No badges.
+No template noise.
+No copy-paste developer profile.
 
 Only systems.
 ```
