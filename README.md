@@ -1,9 +1,13 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=28&pause=4000&color=FFFFFF&center=true&vCenter=true&width=500&lines=MANJUNATH" />
+# MANJUNATH
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&pause=4000&color=FFFFFF&center=true&vCenter=true&width=420&lines=immersive+systems;realtime+experiences;experimental+interfaces" />
+
+<br/>
 
 ```txt
-immersive systems • realtime experiences • experimental interfaces
+creative developer • system builder • interface engineer
 ```
 
 </div>
@@ -12,19 +16,23 @@ immersive systems • realtime experiences • experimental interfaces
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-### /contributions
+### contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManjunathSivasankar&bg_color=00000000&color=8B8B8B&line=FFFFFF&point=FFFFFF&hide_border=true&height=250"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManjunathSivasankar&bg_color=00000000&color=A0A0A0&line=FFFFFF&point=FFFFFF&hide_border=true&area=true&height=260"/>
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
-### /languages
+### languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathSivasankar&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=8B8B8B&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManjunathSivasankar&theme=github_dark"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManjunathSivasankar&theme=github_dark"/>
 
 </td>
 </tr>
@@ -36,8 +44,6 @@ immersive systems • realtime experiences • experimental interfaces
 
 ```yaml
 name: Manjunath Sivasankar
-role: Creative Developer
-
 focus:
   - immersive interfaces
   - realtime systems
