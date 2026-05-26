@@ -6,6 +6,12 @@
 
 <br/>
 
+```txt
+full stack developer • mern stack developer • system builder
+```
+
+<br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManjunathSivasankar&theme=github_dark"/>
 
 </div>
@@ -14,20 +20,18 @@
 
 <table>
 <tr>
-<td width="55%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManjunathSivasankar&bg_color=00000000&color=A0A0A0&line=FFFFFF&point=FFFFFF&hide_border=true&area=true&height=250"/>
+<td width="60%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManjunathSivasankar&bg_color=00000000&color=A0A0A0&line=00FF99&point=FFFFFF&hide_border=true&area=true&height=250"/>
 
 </td>
 
-<td width="45%">
+<td width="40%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManjunathSivasankar&theme=github_dark"/>
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManjunathSivasankar&theme=github_dark"/>
-
 </td>
+
 </tr>
 </table>
