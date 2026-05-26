@@ -6,10 +6,7 @@
 
 <br/>
 
-```txt
-42 repositories • 1.2k contributions • 18 public projects
-building cinematic digital systems
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManjunathSivasankar&theme=github_dark"/>
 
 </div>
 
