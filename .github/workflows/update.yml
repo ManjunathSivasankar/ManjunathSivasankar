@@ -1,0 +1,38 @@
+name: Refresh Profile README
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update README timestamp
+        shell: bash
+        run: |
+          python -c "from datetime import datetime, timezone; from pathlib import Path; readme = Path('README.md'); text = readme.read_text(encoding='utf-8'); start = '<!-- AUTO_UPDATE_START -->'; end = '<!-- AUTO_UPDATE_END -->'; assert start in text and end in text, 'README.md is missing auto-update markers'; stamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'); replacement = '<!-- AUTO_UPDATE_START -->\\n<p align=\"center\"><sub>Last automated refresh: {}</sub></p>\\n<!-- AUTO_UPDATE_END -->'.format(stamp); before, remainder = text.split(start, 1); _, after = remainder.split(end, 1); readme.write_text(before + replacement + after, encoding='utf-8')"
+
+      - name: Commit changes
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: refresh profile README"
+          git push
