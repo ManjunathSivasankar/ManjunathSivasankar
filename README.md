@@ -26,24 +26,3 @@
 
 <div align="center">
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManjunathSivasankar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark_dimmed&cache_seconds=1800&rank_icon=github" alt="GitHub stats" />
-
-</div>
-
-<div align="center">
-
-## Languages Used
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathSivasankar&layout=compact&langs_count=8&hide_border=true&theme=github_dark_dimmed&cache_seconds=1800" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-## Total Contributions / Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManjunathSivasankar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark_dimmed&cache_seconds=1800&hide=stars,issues,prs,contribs" alt="Total contributions and activity" />
-
-</div>
