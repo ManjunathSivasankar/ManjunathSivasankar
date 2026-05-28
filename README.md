@@ -4,9 +4,15 @@
 
 <p><strong>Developer focused on clean, modern, and reliable web experiences.</strong></p>
 
-<p>
-  I build practical user interfaces and full-stack systems with an emphasis on clarity, performance, and maintainability.
-</p>
+<p>I build practical user interfaces and full-stack systems with an emphasis on clarity, performance, and maintainability.</p>
+
+</div>
+
+<div align="center">
+
+## About
+
+<p>A developer creating simple, scalable, and user-friendly web experiences with a clean product mindset.</p>
 
 </div>
 
@@ -38,6 +44,6 @@
 
 ## Total Contributions / Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManjunathSivasankar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark_dimmed&cache_seconds=1800&hide=stars,issues,contribs" alt="Total contributions and activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=ManjunathSivasankar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark_dimmed&cache_seconds=1800&hide=stars,issues,prs,contribs" alt="Total contributions and activity" />
 
 </div>
