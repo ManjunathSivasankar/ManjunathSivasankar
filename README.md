@@ -4,7 +4,7 @@
 
 <p><strong>Developer focused on clean, modern, and reliable web experiences..</strong></p>
 
-<p>I build practical user interfaces and full-stack systems with an emphasis on clarity, performance, and maintainability..</p>
+<p>I build practical user interfaces and full-stack systems with an emphasis on clarity, performance, and maintainability.</p>
 
 </div>
 
